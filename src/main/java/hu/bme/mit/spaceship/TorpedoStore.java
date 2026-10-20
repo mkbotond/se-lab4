@@ -64,4 +64,8 @@ public class TorpedoStore {
     public int getTorpedoCount() {
         return this.torpedoCount;
     }
+
+    public double getFailure_Rate() {
+        return this.FAILURE_RATE;
+    }
 }
