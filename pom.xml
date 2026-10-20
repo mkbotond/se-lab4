@@ -17,6 +17,13 @@
 			<version>5.14.0</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- JUnit 5 Extension for Env Variables mod-->
+		<dependency>
+			<groupId>uk.org.webcompere</groupId>
+			<artifactId>system-stubs-jupiter</artifactId>
+			<version>2.1.7</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
